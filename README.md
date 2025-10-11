@@ -4,6 +4,7 @@ You can manually edit the code so that it is usable on other compilers or sites.
 Currently, the code is on version 2.4
 
 List of updates
+
 V1.0
   - Automatically balances chemical equations
   - Calculates molar ratio and guesses states
