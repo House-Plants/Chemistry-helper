@@ -1,5 +1,7 @@
 This code was created in Google Colab, so the current code only works on that site.
 You can manually edit the code so that it is usable on other compilers or sites.
+Here is current version link:
+https://colab.research.google.com/drive/1nLMeATPg07cPCmy4LkyTdgqEZm_nrYf8#scrollTo=DG_N9wXq4eYd
 
 Currently, the code is on version 2.4
 
